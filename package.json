@@ -1,9 +1,9 @@
 {
-  "name": "influx-line-protocol-parser",
+  "name": "@qxip/influx-line-protocol-parser",
   "title": "Influx Line Protocol Parser",
   "description": "Library for parsing InfluxDB's line protocol.",
   "version": "0.2.1",
-  "homepage": "https://github.com/goliatone/influx-line-protocol-parser",
+  "homepage": "https://github.com/lmangani/influx-line-protocol-parser",
   "author": {
     "name": "goliatone",
     "email": "hello@goliatone.com",
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/goliatone/influx-line-protocol-parser.git"
+    "url": "git://github.com/lmangani/influx-line-protocol-parser.git"
   },
   "bugs": {
-    "url": "https://github.com/goliatone/influx-line-protocol-parser/issues"
+    "url": "https://github.com/lmangani/influx-line-protocol-parser/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/goliatone/influx-line-protocol-parser/blob/master/LICENSE-MIT"
+      "url": "https://github.com/lmangani/influx-line-protocol-parser/blob/master/LICENSE-MIT"
     }
   ],
   "main": "index",
